@@ -13,6 +13,18 @@
 		99907E422A487D0F0073DDED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99907E402A487D0F0073DDED /* Main.storyboard */; };
 		99907E442A487D100073DDED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99907E432A487D100073DDED /* Assets.xcassets */; };
 		99907E472A487D100073DDED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99907E452A487D100073DDED /* LaunchScreen.storyboard */; };
+		99907E582A48C71B0073DDED /* ViewController + setUpTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E572A48C71B0073DDED /* ViewController + setUpTableView.swift */; };
+		99907E5A2A48C7CB0073DDED /* ViewController + tableViewDelegates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E592A48C7CB0073DDED /* ViewController + tableViewDelegates.swift */; };
+		99907E5E2A48C94D0073DDED /* MoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E5D2A48C94D0073DDED /* MoreViewController.swift */; };
+		99907E602A48CF9D0073DDED /* MoreViewController + setUpRedView + setUpBlueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E5F2A48CF9D0073DDED /* MoreViewController + setUpRedView + setUpBlueView.swift */; };
+		99907E642A48D4490073DDED /* ContentHuggingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E632A48D4490073DDED /* ContentHuggingViewController.swift */; };
+		99907E682A48D9500073DDED /* ContentHuggingViewController + setUpLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E672A48D9500073DDED /* ContentHuggingViewController + setUpLabels.swift */; };
+		99907E6A2A48E41D0073DDED /* ContentHuggingViewController + seUpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E692A48E41D0073DDED /* ContentHuggingViewController + seUpButton.swift */; };
+		99907E6C2A48E56F0073DDED /* ContentHuggingViewController + setUpViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E6B2A48E56F0073DDED /* ContentHuggingViewController + setUpViews.swift */; };
+		99907E712A48FFCB0073DDED /* ContentCompressionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E702A48FFCB0073DDED /* ContentCompressionViewController.swift */; };
+		99907E732A49019B0073DDED /* ContentCompressionViewController + setLabels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E722A49019B0073DDED /* ContentCompressionViewController + setLabels.swift */; };
+		99907E752A4901D00073DDED /* ContentCompressionViewController + setUpViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E742A4901D00073DDED /* ContentCompressionViewController + setUpViews.swift */; };
+		99907E772A49187C0073DDED /* ContentCompressionViewController + setUpButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99907E762A49187C0073DDED /* ContentCompressionViewController + setUpButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		99907E432A487D100073DDED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99907E462A487D100073DDED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		99907E482A487D100073DDED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99907E572A48C71B0073DDED /* ViewController + setUpTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + setUpTableView.swift"; sourceTree = "<group>"; };
+		99907E592A48C7CB0073DDED /* ViewController + tableViewDelegates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController + tableViewDelegates.swift"; sourceTree = "<group>"; };
+		99907E5D2A48C94D0073DDED /* MoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreViewController.swift; sourceTree = "<group>"; };
+		99907E5F2A48CF9D0073DDED /* MoreViewController + setUpRedView + setUpBlueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MoreViewController + setUpRedView + setUpBlueView.swift"; sourceTree = "<group>"; };
+		99907E632A48D4490073DDED /* ContentHuggingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentHuggingViewController.swift; sourceTree = "<group>"; };
+		99907E672A48D9500073DDED /* ContentHuggingViewController + setUpLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentHuggingViewController + setUpLabels.swift"; sourceTree = "<group>"; };
+		99907E692A48E41D0073DDED /* ContentHuggingViewController + seUpButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentHuggingViewController + seUpButton.swift"; sourceTree = "<group>"; };
+		99907E6B2A48E56F0073DDED /* ContentHuggingViewController + setUpViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentHuggingViewController + setUpViews.swift"; sourceTree = "<group>"; };
+		99907E702A48FFCB0073DDED /* ContentCompressionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCompressionViewController.swift; sourceTree = "<group>"; };
+		99907E722A49019B0073DDED /* ContentCompressionViewController + setLabels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentCompressionViewController + setLabels.swift"; sourceTree = "<group>"; };
+		99907E742A4901D00073DDED /* ContentCompressionViewController + setUpViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentCompressionViewController + setUpViews.swift"; sourceTree = "<group>"; };
+		99907E762A49187C0073DDED /* ContentCompressionViewController + setUpButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentCompressionViewController + setUpButton.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +80,123 @@
 		99907E392A487D0F0073DDED /* ContentHuggingTest */ = {
 			isa = PBXGroup;
 			children = (
-				99907E3A2A487D0F0073DDED /* AppDelegate.swift */,
-				99907E3C2A487D0F0073DDED /* SceneDelegate.swift */,
-				99907E3E2A487D0F0073DDED /* ViewController.swift */,
-				99907E402A487D0F0073DDED /* Main.storyboard */,
-				99907E432A487D100073DDED /* Assets.xcassets */,
-				99907E452A487D100073DDED /* LaunchScreen.storyboard */,
+				99907E542A48C3850073DDED /* Assets */,
+				99907E6D2A48FF800073DDED /* ContentCompression View */,
+				99907E532A48C3720073DDED /* System Generated */,
+				99907E612A48D4140073DDED /* ContentHugging View */,
+				99907E5B2A48C9170073DDED /* MoreView */,
+				99907E502A48C3080073DDED /* MainView */,
 				99907E482A487D100073DDED /* Info.plist */,
 			);
 			path = ContentHuggingTest;
+			sourceTree = "<group>";
+		};
+		99907E502A48C3080073DDED /* MainView */ = {
+			isa = PBXGroup;
+			children = (
+				99907E522A48C3250073DDED /* Controller */,
+				99907E512A48C31D0073DDED /* View */,
+			);
+			path = MainView;
+			sourceTree = "<group>";
+		};
+		99907E512A48C31D0073DDED /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		99907E522A48C3250073DDED /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				99907E3E2A487D0F0073DDED /* ViewController.swift */,
+				99907E572A48C71B0073DDED /* ViewController + setUpTableView.swift */,
+				99907E592A48C7CB0073DDED /* ViewController + tableViewDelegates.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		99907E532A48C3720073DDED /* System Generated */ = {
+			isa = PBXGroup;
+			children = (
+				99907E3A2A487D0F0073DDED /* AppDelegate.swift */,
+				99907E3C2A487D0F0073DDED /* SceneDelegate.swift */,
+			);
+			path = "System Generated";
+			sourceTree = "<group>";
+		};
+		99907E542A48C3850073DDED /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				99907E402A487D0F0073DDED /* Main.storyboard */,
+				99907E432A487D100073DDED /* Assets.xcassets */,
+				99907E452A487D100073DDED /* LaunchScreen.storyboard */,
+			);
+			path = Assets;
+			sourceTree = "<group>";
+		};
+		99907E5B2A48C9170073DDED /* MoreView */ = {
+			isa = PBXGroup;
+			children = (
+				99907E5C2A48C9300073DDED /* Controller */,
+			);
+			path = MoreView;
+			sourceTree = "<group>";
+		};
+		99907E5C2A48C9300073DDED /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				99907E5D2A48C94D0073DDED /* MoreViewController.swift */,
+				99907E5F2A48CF9D0073DDED /* MoreViewController + setUpRedView + setUpBlueView.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		99907E612A48D4140073DDED /* ContentHugging View */ = {
+			isa = PBXGroup;
+			children = (
+				99907E622A48D42A0073DDED /* Controller */,
+			);
+			path = "ContentHugging View";
+			sourceTree = "<group>";
+		};
+		99907E622A48D42A0073DDED /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				99907E632A48D4490073DDED /* ContentHuggingViewController.swift */,
+				99907E6B2A48E56F0073DDED /* ContentHuggingViewController + setUpViews.swift */,
+				99907E672A48D9500073DDED /* ContentHuggingViewController + setUpLabels.swift */,
+				99907E692A48E41D0073DDED /* ContentHuggingViewController + seUpButton.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		99907E6D2A48FF800073DDED /* ContentCompression View */ = {
+			isa = PBXGroup;
+			children = (
+				99907E6F2A48FFB40073DDED /* View */,
+				99907E6E2A48FFAE0073DDED /* Controller */,
+			);
+			path = "ContentCompression View";
+			sourceTree = "<group>";
+		};
+		99907E6E2A48FFAE0073DDED /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				99907E702A48FFCB0073DDED /* ContentCompressionViewController.swift */,
+				99907E722A49019B0073DDED /* ContentCompressionViewController + setLabels.swift */,
+				99907E762A49187C0073DDED /* ContentCompressionViewController + setUpButton.swift */,
+				99907E742A4901D00073DDED /* ContentCompressionViewController + setUpViews.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		99907E6F2A48FFB40073DDED /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +270,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				99907E682A48D9500073DDED /* ContentHuggingViewController + setUpLabels.swift in Sources */,
+				99907E642A48D4490073DDED /* ContentHuggingViewController.swift in Sources */,
 				99907E3F2A487D0F0073DDED /* ViewController.swift in Sources */,
+				99907E6A2A48E41D0073DDED /* ContentHuggingViewController + seUpButton.swift in Sources */,
 				99907E3B2A487D0F0073DDED /* AppDelegate.swift in Sources */,
+				99907E582A48C71B0073DDED /* ViewController + setUpTableView.swift in Sources */,
+				99907E5E2A48C94D0073DDED /* MoreViewController.swift in Sources */,
+				99907E602A48CF9D0073DDED /* MoreViewController + setUpRedView + setUpBlueView.swift in Sources */,
 				99907E3D2A487D0F0073DDED /* SceneDelegate.swift in Sources */,
+				99907E712A48FFCB0073DDED /* ContentCompressionViewController.swift in Sources */,
+				99907E5A2A48C7CB0073DDED /* ViewController + tableViewDelegates.swift in Sources */,
+				99907E6C2A48E56F0073DDED /* ContentHuggingViewController + setUpViews.swift in Sources */,
+				99907E752A4901D00073DDED /* ContentCompressionViewController + setUpViews.swift in Sources */,
+				99907E772A49187C0073DDED /* ContentCompressionViewController + setUpButton.swift in Sources */,
+				99907E732A49019B0073DDED /* ContentCompressionViewController + setLabels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +446,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.brandon-suarez.ContentHuggingTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -330,6 +477,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.brandon-suarez.ContentHuggingTest";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
